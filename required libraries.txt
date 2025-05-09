@@ -1,0 +1,14 @@
+Required Libraries:
+    Might need installing:
+    Library Name        | Install Command
+    ------------------------------------------------
+    - customtkinter     | pip install customtkinter
+    - pillow (PIL)      | pip install pillow
+
+    Preinstalled:
+    - tkinter
+    - os
+    - string
+    - random
+    - hashlib
+    - subprocess
