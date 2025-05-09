@@ -1,8 +1,0 @@
-Main, Text Editor, & Hasher:
-- https://www.flaticon.com/authors/freepik
-
-Password Generator:
-- https://www.flaticon.com/authors/pixel-perfect
-
-Calculator:
-- https://www.flaticon.com/authors/altop7
