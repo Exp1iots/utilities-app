@@ -8,7 +8,7 @@ set_appearance_mode("Dark")
 """ Defines paramiters for the window """
 root = CTk() # creates the window
 root.geometry("336x319") # sets the window size (in px)
-root.title("Python Unity App") # sets the windows title
+root.title("Python Utility App") # sets the windows title
 root.resizable(False, False) # makes the windows not resiable
 root.iconbitmap("main.ico") # Sets window icon
 
